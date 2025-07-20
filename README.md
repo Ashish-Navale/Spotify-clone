@@ -18,7 +18,8 @@ A front-end clone of Spotify's web player, created using **only HTML and CSS**. 
 ---
 
 ## 🗂️ Folder Structure
-spotify-clone/
+
+  spotify-clone/
 ├── assets/
 │ ├── card1img.jpeg
 │ ├── player_icon1.png
