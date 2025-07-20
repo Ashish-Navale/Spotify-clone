@@ -6,16 +6,16 @@ A front-end clone of Spotify's web player, created using **only HTML and CSS**. 
 ---
 ## You can access project using below link 
 
-## 🔥 Features
-
-- 🎨 Clean UI inspired by Spotify's layout
-- 💻 Responsive design with Flexbox
-- 📚 Sidebar navigation with library and playlist boxes
-- 🎵 Playlist cards (Trending, Recently Played, Charts, etc.)
-- ⏯️ Static bottom music player UI
-- 🌐 Font Awesome Icons + Google Fonts integration
-
----
+## Folder Structure
+```
+spotify-clone/
+├── assets/
+│   ├── card1img.jpeg
+│   ├── player_icon1.png
+│   └── ... (all image assets)
+├── spotifyclone.html
+└── spotifyclone.css
+```
 
 
 
