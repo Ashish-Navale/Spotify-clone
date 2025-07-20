@@ -17,6 +17,8 @@ A front-end clone of Spotify's web player, created using **only HTML and CSS**. 
 
 ---
 
+
+
 ## 🗂️ Folder Structure
 
   spotify-clone/
@@ -26,6 +28,9 @@ A front-end clone of Spotify's web player, created using **only HTML and CSS**. 
  │ └──  ... (all image assets)
  ├──spotifyclone.html
  └──spotifyclone.css
+
+
+
 
 ## Known Limitations
  No JavaScript — this is a static front-end clone
