@@ -17,21 +17,6 @@ spotify-clone/
 └── spotifyclone.css
 ```
 
-
-
-## 🗂️ Folder Structure
-
-  spotify-clone/
- ├──assets/
- │ ├──  card1img.jpeg
- │ ├──  player_icon1.png
- │ └──  ... (all image assets)
- ├──spotifyclone.html
- └──spotifyclone.css
-
-
-
-
 ## Known Limitations
  No JavaScript — this is a static front-end clone
  Music player controls are not functional
