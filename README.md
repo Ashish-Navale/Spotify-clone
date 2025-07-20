@@ -5,7 +5,8 @@ A front-end clone of Spotify's web player, created using **only HTML and CSS**. 
 
 ---
 ## You can access project using below link 
-
+  [project demo link](https://ashish-navale.github.io/Spotify-clone)
+  
 ## Folder Structure
 ```
 spotify-clone/
