@@ -20,12 +20,12 @@ A front-end clone of Spotify's web player, created using **only HTML and CSS**. 
 ## 🗂️ Folder Structure
 
   spotify-clone/
-├── assets/
-│ ├── card1img.jpeg
-│ ├── player_icon1.png
-│ └── ... (all image assets)
-├── spotifyclone.html
-└── spotifyclone.css
+ ├──assets/
+ │ ├──  card1img.jpeg
+ │ ├──  player_icon1.png
+ │ └──  ... (all image assets)
+ ├──spotifyclone.html
+ └──spotifyclone.css
 
 ## Known Limitations
  No JavaScript — this is a static front-end clone
